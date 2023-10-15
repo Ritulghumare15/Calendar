@@ -12,8 +12,7 @@ body{
   padding: 0 10px;
   justify-content: center;
   min-height: 100vh;
-  /*background: #9B59B6;*/
-  background-image: url("img/background/background.png");
+  background: #6ba079;
 }
 .wrapper{
   width: 450px;
